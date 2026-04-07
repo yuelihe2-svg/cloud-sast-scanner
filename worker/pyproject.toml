@@ -1,0 +1,10 @@
+[project]
+name = "cloud-sast-worker"
+version = "0.1.0"
+description = "Python scanner worker for cloud-sast-scanner"
+requires-python = ">=3.11"
+
+[build-system]
+requires = ["setuptools>=69"]
+build-backend = "setuptools.build_meta"
+
